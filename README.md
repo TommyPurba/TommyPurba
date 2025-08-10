@@ -9,7 +9,7 @@ I love solving problems, learning new technologies, and creating user-friendly a
 ### 🔧 Tech Stack & Tools
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks:** Flutter (Beginner)
-- **Tools:** Git, GitHub, SourceTree, VS Code
+- **Tools:** Git, GitHub,  VS Code
 
 ---
 
